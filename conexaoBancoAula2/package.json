@@ -1,0 +1,15 @@
+{
+  "name": "aula2",
+  "version": "1.0.0",
+  "description": "aula 2 curso node",
+  "main": "conexao.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "author": "anderson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
